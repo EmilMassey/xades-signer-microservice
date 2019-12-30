@@ -10,9 +10,9 @@
     </parent>
     <groupId>pl.tipply</groupId>
     <artifactId>xades</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>xades</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Microservice to sign xml documents</description>
 
     <properties>
         <java.version>1.8</java.version>
